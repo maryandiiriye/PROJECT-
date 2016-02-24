@@ -1,0 +1,18 @@
+body {
+	color: red ;
+}
+
+body {
+    background-image: url("london-skyline.jpg");
+    position: fixed;
+    background-repeat: no-repeat;
+    background-position: top center; 
+    background-size: 1400px 875px ;  
+    background-attachment: fixed; }
+
+body { position: fixed;
+transition: .5s ease;
+    left: 576px;
+    top: 470px; }
+
+ p{ position: auto }
